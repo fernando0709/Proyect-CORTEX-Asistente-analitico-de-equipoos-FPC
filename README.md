@@ -1,0 +1,1 @@
+# Proyect-CORTEX-Asistente-analitico-de-equipoos-FPC
