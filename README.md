@@ -10,4 +10,6 @@
 ## Justificacion de la calificacion de cada proceso:
 
 -Atencion: Requiere de una buena atencion para poder entender que se le esta solicitando con base a los datos de los resultados de los equipos del fpc pero no tanta.
--Memoria: El asistente requiere de tener mucha memoria, osea una base de datos de los resultados de los equipos del fpc, para asi dar una respuesta acertada a lo que se le este solicitando
+-Memoria: El asistente requiere de tener mucha memoria, osea una base de datos de los resultados de los equipos del fpc, para asi dar una respuesta acertada a lo que se le este solicitando.
+-Emocion: No requiere tanta emocion no se enfoca en algo que conecte emocin almente si no mas un astitente que ayude a valorar e identificar patrones y estadisticas en el rendimineto de los clubes del fpc.
+-Lenguaje: Requiere de un lenguaje tecnico con ciertas exprsiones muy utlizadas dentro de las predicciones futbolistica pero tampoco tiene que ser muy sofisticado.
