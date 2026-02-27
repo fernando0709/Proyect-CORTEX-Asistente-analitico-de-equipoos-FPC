@@ -5,7 +5,8 @@
 -alejandro carrillo 
 <img width="1349" height="770" alt="image" src="https://github.com/user-attachments/assets/9345cb8b-3a35-4e9a-92e8-56b266ded5d8" />
 # tabla: aspectos cognitivos relevantes 
-<img width="446" height="135" alt="image" src="https://github.com/user-attachments/assets/8b8a8088-8b6b-4e3c-9f0c-f510e1eb814f" />
+<img width="851" height="638" alt="image" src="https://github.com/user-attachments/assets/91537f4b-df21-4d7e-9669-0d5bc4be3dc9" />
+
 -
 ## Justificacion de la calificacion de cada proceso:
 
