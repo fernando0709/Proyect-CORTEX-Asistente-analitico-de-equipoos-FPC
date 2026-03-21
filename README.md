@@ -14,3 +14,5 @@
 -Memoria: El asistente requiere de tener mucha memoria, osea una base de datos de los resultados de los equipos del fpc, para asi dar una respuesta acertada a lo que se le este solicitando.
 -Emocion: No requiere tanta emocion no se enfoca en algo que conecte emocin almente si no mas un astitente que ayude a valorar e identificar patrones y estadisticas en el rendimineto de los clubes del fpc.
 -Lenguaje: Requiere de un lenguaje tecnico con ciertas exprsiones muy utlizadas dentro de las predicciones futbolistica pero tampoco tiene que ser muy sofisticado.
+
+<img width="1363" height="627" alt="image" src="https://github.com/user-attachments/assets/c4a76ac4-a6a3-4f73-a76b-db4c53efef7d" />
