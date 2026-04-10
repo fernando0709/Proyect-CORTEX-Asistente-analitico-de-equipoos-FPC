@@ -51,3 +51,6 @@ semana 7
 
 semana 8
 ![WhatsApp Image 2026-04-10 at 11 40 17 AM](https://github.com/user-attachments/assets/4ff9b057-131e-47b9-8800-4ec795711f53)
+Semana 9 
+## regla de limpieza de cache 
+el bot olvidara la coversacion 10 minutos despues de que el usuario salga de la aplicacion o deje de utilizar el asistente virtual
