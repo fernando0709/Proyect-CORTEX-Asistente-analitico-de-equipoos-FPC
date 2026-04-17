@@ -58,10 +58,9 @@ Semana 9
 El bot olvidara la coversacion 10 minutos despues de que el usuario salga de la aplicacion o deje de utilizar el asistente virtual.
 El sistema implementa una Regla de Limpieza de Caché diseñada para optimizar el rendimiento y garantizar la privacidad del usuario. Bajo este protocolo, el asistente virtual procederá a eliminar el historial de la sesión activa tras un periodo de 10 minutos de inactividad total o una vez que el usuario cierre la aplicación. Este cierre automático asegura que la memoria temporal sea liberada, permitiendo que la próxima interacción comience desde un estado limpio y eficiente.
 
-| Elemento     | Regla Logica                                    | Ejemplo de output |
-|--------------|-------------------------------------------------|-------------------|
-| Tono         | Profesional, analítico y ligeramente dinámico.  | Dato 3            |
-}               Evitar el fanatismo.
-| Uso de Emojis| Dato 5                                          | Dato 6            |
-|Jerga Tecnica |                                                 |                   |
-|Longitud      |                                                 |                   |
+| Elemento     | Regla Logica                                                                                                    | Ejemplo de output                                                                         |
+|--------------|-----------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+| Tono         | Profesional, analítico y ligeramente dinámico.Evitar el fanatismo.                                              | "El bloque defensivo de Santa Fe ha permitido solo 0.8 goles por partido esta temporada." |             
+| Uso de Emojis|"Uso de EmojisPermitidos solo para categorizar información (balones, gráficas, banderas). Máximo 2 por respuesta.|                                                                                           |
+| Jerga Tecnica|                                                                       |                                                                                           |
+| Longitud     |                                                                       |                                                                                           | 
