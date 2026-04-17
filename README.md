@@ -58,3 +58,7 @@ Semana 9
 El bot olvidara la coversacion 10 minutos despues de que el usuario salga de la aplicacion o deje de utilizar el asistente virtual.
 El sistema implementa una Regla de Limpieza de Caché diseñada para optimizar el rendimiento y garantizar la privacidad del usuario. Bajo este protocolo, el asistente virtual procederá a eliminar el historial de la sesión activa tras un periodo de 10 minutos de inactividad total o una vez que el usuario cierre la aplicación. Este cierre automático asegura que la memoria temporal sea liberada, permitiendo que la próxima interacción comience desde un estado limpio y eficiente.
 
+| Elemento     | Regla Logica | Ejemplo de output |
+|--------------|--------------|-------------------|
+| Dato 1       | Dato 2       | Dato 3            |
+| Dato 4       | Dato 5       | Dato 6            |
