@@ -53,10 +53,13 @@ semana 7
 
 semana 8
 ![WhatsApp Image 2026-04-10 at 11 40 17 AM](https://github.com/user-attachments/assets/4ff9b057-131e-47b9-8800-4ec795711f53)
-Semana 9 
+
+Semana 9: 
 ## regla de limpieza de cache 
 El bot olvidara la coversacion 10 minutos despues de que el usuario salga de la aplicacion o deje de utilizar el asistente virtual.
 El sistema implementa una Regla de Limpieza de Caché diseñada para optimizar el rendimiento y garantizar la privacidad del usuario. Bajo este protocolo, el asistente virtual procederá a eliminar el historial de la sesión activa tras un periodo de 10 minutos de inactividad total o una vez que el usuario cierre la aplicación. Este cierre automático asegura que la memoria temporal sea liberada, permitiendo que la próxima interacción comience desde un estado limpio y eficiente.
+
+Semana 10
 
 | Elemento     | Regla Logica                                                                                                    | Ejemplo de output                                                                         |
 |--------------|-----------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
