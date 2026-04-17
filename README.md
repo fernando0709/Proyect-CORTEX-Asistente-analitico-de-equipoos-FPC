@@ -61,7 +61,7 @@ El sistema implementa una Regla de Limpieza de Caché diseñada para optimizar e
 | Elemento     | Regla Logica                                    | Ejemplo de output |
 |--------------|-------------------------------------------------|-------------------|
 | Tono         | Profesional, analítico y ligeramente dinámico.  | Dato 3            |
-}               Evitar el fanatismo.
+               Evitar el fanatismo.
 | Uso de Emojis| Dato 5                                          | Dato 6            |
 |Jerga Tecnica |                                                 |                   |
 |Longitud      |                                                 |                   |
