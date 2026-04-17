@@ -47,7 +47,7 @@ Si el evento es inminente (menos de 4 horas), la respuesta debe incluir adverten
 **Datos confirmados** (resultados de estadisticas de jigadores, alineaciones oficiales, lesiones confirmadas).
 **Tendencias históricas** (rendimiento en el pais de origen o si esta visitante, últimos enfrentamientos).
 **Análisis predictivo** (solo si se si se solicita o se pregunta).
-##semana 7
+## Semana 7
 
 ![WhatsApp Image 2026-04-10 at 11 37 04 AM](https://github.com/user-attachments/assets/86c89bfa-b087-48c0-9534-2ab7cff39e29)
 
