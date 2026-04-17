@@ -24,7 +24,7 @@
 
 
 
-##semana 6: 
+## Semana 6: 
 
 ## Regla 1
 - **Si el mensaje del usuario tiene más de 500 palabras:**
@@ -51,15 +51,15 @@ Si el evento es inminente (menos de 4 horas), la respuesta debe incluir adverten
 
 ![WhatsApp Image 2026-04-10 at 11 37 04 AM](https://github.com/user-attachments/assets/86c89bfa-b087-48c0-9534-2ab7cff39e29)
 
-##semana 8
+## Semana 8
 ![WhatsApp Image 2026-04-10 at 11 40 17 AM](https://github.com/user-attachments/assets/4ff9b057-131e-47b9-8800-4ec795711f53)
 
-##Semana 9: 
+## Semana 9: 
 ## regla de limpieza de cache 
 El bot olvidara la coversacion 10 minutos despues de que el usuario salga de la aplicacion o deje de utilizar el asistente virtual.
 El sistema implementa una Regla de Limpieza de Caché diseñada para optimizar el rendimiento y garantizar la privacidad del usuario. Bajo este protocolo, el asistente virtual procederá a eliminar el historial de la sesión activa tras un periodo de 10 minutos de inactividad total o una vez que el usuario cierre la aplicación. Este cierre automático asegura que la memoria temporal sea liberada, permitiendo que la próxima interacción comience desde un estado limpio y eficiente.
 
-##Semana 10:
+## Semana 10:
 
 | Elemento     | Regla Logica                                                                                                    | Ejemplo de output                                                                         |
 |--------------|-----------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
@@ -68,7 +68,7 @@ El sistema implementa una Regla de Limpieza de Caché diseñada para optimizar e
 | Jerga Tecnica|Obligatoria pero explicada. Usar términos del FPC y métricas avanzadas.                                                                       |"El equipo local domina las transiciones rápidas (contragolpes efectivos).                                                                                          |
 | Longitud     |Respuestas precisas. Máximo 2 párrafos o una lista de puntos clave.                                                                     |(Uso de bullet points para comparar estadísticas de dos equipos).                                   | 
 
-##Semana 11:
+## Semana 11:
 
 <img width="438" height="704" alt="image" src="https://github.com/user-attachments/assets/c5ab91d8-fff3-4c64-bd02-01a47a76b9db" />
 
@@ -78,7 +78,7 @@ El sistema implementa una Regla de Limpieza de Caché diseñada para optimizar e
 
 
 
-##Semana 12: 
+## Semana 12: 
 
 Escenario de Éxito: Análisis Predictivo y Estadístico
 En este caso, el asistente aplica la Regla 2 (Prioridad predictiva), la Regla 4 (Orden de prioridades: datos confirmados antes que análisis) y el Tono Dinámico.
