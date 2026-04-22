@@ -3,6 +3,8 @@
 -andres ferrer
 -fernando cardona
 -alejandro carrillo 
+
+# Fase 1
 <img width="1349" height="770" alt="image" src="https://github.com/user-attachments/assets/9345cb8b-3a35-4e9a-92e8-56b266ded5d8" />
 # tabla: aspectos cognitivos relevantes 
 <img width="851" height="638" alt="image" src="https://github.com/user-attachments/assets/91537f4b-df21-4d7e-9669-0d5bc4be3dc9" />
