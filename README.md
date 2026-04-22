@@ -4,13 +4,16 @@
 -Fernando Cardona
 -Alejandro Carrillo 
 
+
 # Fase 1
+
 <img width="1349" height="770" alt="image" src="https://github.com/user-attachments/assets/9345cb8b-3a35-4e9a-92e8-56b266ded5d8" />
 # tabla: aspectos cognitivos relevantes 
 <img width="851" height="638" alt="image" src="https://github.com/user-attachments/assets/91537f4b-df21-4d7e-9669-0d5bc4be3dc9" />
 
 
 # Fase 2
+
 ## Justificacion de la calificacion de cada proceso:
 
 -Atencion: Requiere de una buena atencion para poder entender que se le esta solicitando con base a los datos de los resultados de los equipos del fpc pero no tanta.
@@ -50,6 +53,10 @@ Si el evento es inminente (menos de 4 horas), la respuesta debe incluir adverten
 **Datos confirmados** (resultados de estadisticas de jigadores, alineaciones oficiales, lesiones confirmadas).
 **Tendencias históricas** (rendimiento en el pais de origen o si esta visitante, últimos enfrentamientos).
 **Análisis predictivo** (solo si se si se solicita o se pregunta).
+
+
+# Fase 3
+
 ## Semana 7
 
 ![WhatsApp Image 2026-04-10 at 11 37 04 AM](https://github.com/user-attachments/assets/86c89bfa-b087-48c0-9534-2ab7cff39e29)
@@ -61,6 +68,9 @@ Si el evento es inminente (menos de 4 horas), la respuesta debe incluir adverten
 ## regla de limpieza de cache 
 El bot olvidara la coversacion 10 minutos despues de que el usuario salga de la aplicacion o deje de utilizar el asistente virtual.
 El sistema implementa una Regla de Limpieza de Caché diseñada para optimizar el rendimiento y garantizar la privacidad del usuario. Bajo este protocolo, el asistente virtual procederá a eliminar el historial de la sesión activa tras un periodo de 10 minutos de inactividad total o una vez que el usuario cierre la aplicación. Este cierre automático asegura que la memoria temporal sea liberada, permitiendo que la próxima interacción comience desde un estado limpio y eficiente.
+
+# Fase 4
+
 
 ## Semana 10:
 
