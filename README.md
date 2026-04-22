@@ -9,7 +9,8 @@
 # tabla: aspectos cognitivos relevantes 
 <img width="851" height="638" alt="image" src="https://github.com/user-attachments/assets/91537f4b-df21-4d7e-9669-0d5bc4be3dc9" />
 
--
+
+# Fase 2
 ## Justificacion de la calificacion de cada proceso:
 
 -Atencion: Requiere de una buena atencion para poder entender que se le esta solicitando con base a los datos de los resultados de los equipos del fpc pero no tanta.
