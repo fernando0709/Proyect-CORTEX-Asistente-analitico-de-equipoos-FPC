@@ -154,6 +154,8 @@ Ahora con el problema y la solucion.
 -
 <img width="865" height="886" alt="image" src="https://github.com/user-attachments/assets/8168d3b3-372a-4710-817d-493b9d29a7fc" />
 <img width="984" height="934" alt="image" src="https://github.com/user-attachments/assets/255ac96c-44c3-4114-b9e0-86d6ce713092" />
+<img width="1198" height="839" alt="image" src="https://github.com/user-attachments/assets/7fea67c7-6871-4fb3-807d-44c3d7c62055" />
+<img width="953" height="938" alt="image" src="https://github.com/user-attachments/assets/d12340fa-d4a9-44ab-80ac-f411ada33b61" />
 
 
 
