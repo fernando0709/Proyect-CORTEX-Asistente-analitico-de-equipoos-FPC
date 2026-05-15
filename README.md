@@ -129,7 +129,6 @@ Para garantizar la eficiencia y privacidad de tu sesión, mi memoria temporal ha
 
 No tengo registro de los jugadores mencionados anteriormente. Por favor, indícame el nombre del equipo o los jugadores para darte los datos confirmados de última hora 📋.
 
-Análisis del Guion frente a tus Reglas:
 Regla de Atención (Semana 6): En el segundo ejemplo, el bot ignora las 600 palabras de historia y se centra solo en el sustantivo "Junior" y la última frase.
 
 Jerga Técnica (Semana 10): Se mencionan "transiciones rápidas" y se explican brevemente entre paréntesis.
