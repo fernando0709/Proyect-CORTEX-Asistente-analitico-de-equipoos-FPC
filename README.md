@@ -137,4 +137,5 @@ Jerga Técnica (Semana 10): Se mencionan "transiciones rápidas" y se explican b
 Prioridades (Regla 4): Siempre se presentan primero los resultados o bajas confirmadas antes de dar un porcentaje de probabilidad.
 
 Tono (Semana 10): Se mantiene profesional pero usa frases dinámicas como "hizo respetar su casa" o "pólvora mojada".
-##Protocolo de razonamiento y etica
+
+## Protocolo de razonamiento y etica
