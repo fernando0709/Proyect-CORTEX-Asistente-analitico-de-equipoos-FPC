@@ -153,6 +153,7 @@ Ahora con el problema y la solucion.
 
 -
 <img width="865" height="886" alt="image" src="https://github.com/user-attachments/assets/8168d3b3-372a-4710-817d-493b9d29a7fc" />
+<img width="984" height="934" alt="image" src="https://github.com/user-attachments/assets/255ac96c-44c3-4114-b9e0-86d6ce713092" />
 
 
 
