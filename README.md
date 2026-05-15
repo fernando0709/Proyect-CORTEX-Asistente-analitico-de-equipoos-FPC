@@ -142,5 +142,10 @@ Tono (Semana 10): Se mantiene profesional pero usa frases dinámicas como "hizo 
 Sesgo: Sesgo de anclaje 
 El bot podria dejarse llevar por lo primero que dice el usuario sobre un jugador o equipo el cual el usuario sea fan.
 La solucion o contramedida para esto seria que el bot se basara eb los datos historicos y reales de un jugador o equipo para asi decir estadisticamente cual es mejor comparando con el jugador o equipo que el usuario haya demostrado ser fan en un principio.
+<img width="567" height="945" alt="image" src="https://github.com/user-attachments/assets/b97525b1-ee7e-49f6-834d-9435eb5affa2" />
+<img width="647" height="935" alt="image" src="https://github.com/user-attachments/assets/326766d8-2b06-4de0-9656-712a1fc6869c" />
+<img width="733" height="937" alt="image" src="https://github.com/user-attachments/assets/04f0ffda-6f9f-46ad-8b0d-f8239908db40" />
+
+
 
 
